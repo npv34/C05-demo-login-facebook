@@ -1,0 +1,124 @@
+.container {
+    width: 100%;
+    height: 800px;
+    background-color: #f0f2f5;
+}
+
+.content {
+    width: 100%;
+    height: 600px;
+    float: left;
+}
+
+.footer {
+    width: 100%;
+    height: 300px;
+    background-color: white;
+    float: left;
+}
+.logo {
+    margin-left: 18px;
+}
+
+.logo img {
+    height: 106px;
+}
+
+.slogan {
+    height:auto;
+    float: left;
+    padding: 90px 0 90px 90px;
+}
+
+.form-login {
+    width: 40%;
+    float: left;
+}
+
+.slogan-text {
+    margin-left: 50px;
+}
+
+.text-slogan {
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+    margin-top: 0;
+}
+
+.form-content {
+    height: 400px;
+    width: 80%;
+    background-color: #ffffff;
+    float: left;
+    margin-top: 90px;
+    margin-left: 70px;
+    border-radius: 10px;
+    box-shadow: 5px 10px 18px #ababab
+}
+
+.form-content form {
+    padding: 20px;
+}
+
+.form-content input {
+    width: 90%;
+    height: 22px;
+    padding: 14px 16px 14px 16px;
+    border-radius: 6px;
+    border: 1px solid #ababab;
+    font-size: 17px;
+}
+
+.password {
+    margin-top: 18px;
+}
+
+.btn-login {
+    width: 100%;
+    height:50px;
+    margin-top: 18px;
+    background-color: #1877f2;
+    border: 1px solid #ababab;
+    border-radius: 6px;
+    color: #fff;
+    font-size: 20px;
+}
+
+.forgot-password {
+    text-align: center;
+}
+
+.forgot-password a {
+    color: #1877f2;
+    font-size: 14px;
+    text-decoration: none;
+    font-family: inherit;
+}
+.forgot-password a:hover {
+    text-decoration: underline;
+}
+
+hr {
+    margin: 20px;
+    color: #ababab
+}
+
+
+.create-account {
+    float: left;
+    width: 100%;
+    margin-top: 20px;
+    text-align: center;
+}
+.btn-create-account {
+    background-color: #42b72a;
+    padding: 15px 30px;
+    border-radius: 6px;
+    border: 1px solid #ababab;
+    color: #fff;
+    font-size: 20px;
+    font-family: inherit;
+}
